@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://wilf312.github.io/atom.xml" rel="self"/>
   <link href="http://wilf312.github.io/"/>
-  <updated>2014-06-15T22:29:31+09:00</updated>
+  <updated>2014-06-15T22:35:04+09:00</updated>
   <id>http://wilf312.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[テスト]]></title>
+    <link href="http://wilf312.github.io/blog/2014/06/15/title/"/>
+    <updated>2014-06-15T22:33:09+09:00</updated>
+    <id>http://wilf312.github.io/blog/2014/06/15/title</id>
+    <content type="html"><![CDATA[<h1>テストです</h1>
+
+<h2>H２です</h2>
+
+<h3>H3です。</h3>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>コードとか
+</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
   
 </feed>
